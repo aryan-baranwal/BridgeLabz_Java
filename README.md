@@ -242,3 +242,9 @@ In this README documentation, I will keep updating my learnings gained while att
 - Understanding the concept of specific key words
 
 ---
+
+## 15th January, 2026
+
+### Holiday
+
+---
