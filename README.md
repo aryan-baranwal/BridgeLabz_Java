@@ -261,3 +261,55 @@ In this README documentation, I will keep updating my learnings gained while att
 - Re-naming the iml file
 
 ---
+
+## 17th January, 2026
+
+### What I’ve done:
+- Completed design principles
+
+### What I will do next:
+- Finish inheritance problems
+
+### Issues:
+- Drawing the uml and class diagrams
+
+---
+
+## 19th January, 2026
+
+### What I’ve done:
+- Completed inheritance programs
+
+### What I will do next:
+- Start with polymorphism and encapsulation
+
+### Issues:
+- Types of inheritance
+
+---
+
+## 20th January, 2026
+
+### What I’ve done:
+- Finished encapsulation and polymorphism
+
+### What I will do next:
+- Work on interface and abstract class
+
+### Issues:
+- None
+
+---
+
+## 21th January, 2026
+
+### What I’ve done:
+- Completed interface and abstract class problems
+
+### What I will do next:
+- Start with data structures
+
+### Issues:
+- POJO class and other theoretical concepts
+
+---
