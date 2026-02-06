@@ -314,3 +314,174 @@ In this README documentation, I will keep updating my learnings gained while att
 
 ---
 
+## 22nd January, 2026
+
+### What I’ve done:
+- Completed Algorithm Runtime Analysis and Big-O Notation  
+- Studied singly linked list and doubly linked list concepts  
+
+### What I will do next:
+- Learn sorting algorithms  
+
+### Issues:
+- Understanding time complexity for different cases  
+
+---
+
+## 23rd January, 2026
+
+### What I’ve done:
+- Learned sorting algorithms  
+- Started working on the OOPS Banner App  
+
+### What I will do next:
+- Continue working on the OOPS Banner App  
+
+### Issues:
+- Understanding the flow of use cases in the application  
+
+---
+
+## 24th January, 2026
+
+### What I’ve done:
+- Studied stack data structure  
+- Completed OOPS Banner App till UC4  
+- Attended OOPS review  
+
+### What I will do next:
+- Complete the remaining use cases of OOPS Banner App  
+
+### Issues:
+- Managing logic across multiple use cases  
+
+---
+
+## 27th January, 2026
+
+### What I’ve done:
+- Completed the OOPS Banner App  
+- Revised linked list concepts  
+
+### What I will do next:
+- Start learning Java Collections  
+
+### Issues:
+- None  
+
+---
+
+## 28th January, 2026
+
+### What I’ve done:
+- Learned Java Collections concepts  
+- Completed collections assignment for submission  
+
+### What I will do next:
+- Start working on a new project  
+
+### Issues:
+- Understanding differences between collection classes  
+
+---
+
+## 29th January, 2026
+
+### What I’ve done:
+- Started working on the Factory Robot Hazard Analyzer project  
+- Set up the initial project structure  
+
+### What I will do next:
+- Complete the Factory Robot Hazard Analyzer project  
+
+### Issues:
+- Designing proper project flow  
+
+---
+
+## 30th January, 2026
+
+### What I’ve done:
+- Completed the Factory Robot Hazard Analyzer project  
+- Revised Data Structures for review  
+
+### What I will do next:
+- Prepare for Data Structures review  
+
+### Issues:
+- None  
+
+---
+
+## 31st January, 2026
+
+### What I’ve done:
+- Learned Java IO Streams  
+- Completed practical implementation and pushed code to GitHub  
+- Attended Data Structures review  
+
+### What I will do next:
+- Learn Java Exception Handling  
+
+### Issues:
+- Understanding file handling concepts  
+
+---
+
+## 2nd February, 2026
+
+### What I’ve done:
+- Learned Java Exception Handling concepts  
+- Completed practical implementation and pushed assignment to GitHub  
+
+### What I will do next:
+- Work on a console-based application  
+
+### Issues:
+- Understanding checked vs unchecked exceptions  
+
+---
+
+## 3rd February, 2026
+
+### What I’ve done:
+- Implemented Ocean Fleet console-based application use case–wise  
+- Followed OOPS and Data Structures concepts using GitFlow  
+
+### What I will do next:
+- Learn Regex and JUnit testing  
+
+### Issues:
+- Managing multiple branches in GitFlow  
+
+---
+
+## 4th February, 2026
+
+### What I’ve done:
+- Completed Regex validation programs  
+- Implemented JUnit test cases  
+- Pushed code to GitHub using GitFlow  
+
+### What I will do next:
+- Learn Java 8 features  
+
+### Issues:
+- Writing correct test cases  
+
+---
+
+## 5th February, 2026
+
+### What I’ve done:
+- Implemented Java 8 features including Streams and Lambda expressions  
+- Submitted GitHub repository link on Google Classroom  
+
+### What I will do next:
+- Revise Java concepts and prepare for upcoming tasks  
+
+### Issues:
+- Understanding functional programming concepts  
+
+---
+
