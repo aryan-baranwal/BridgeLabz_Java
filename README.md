@@ -1442,7 +1442,7 @@ In this README documentation, I will keep updating my learnings gained while att
 ## 4th May, 2026
 
 ### What I’ve done:
-- Started working on the Crypto-Portfolio-App group project  
+- Started working on the Stock-Portfolio-App group project  
 - Completed the initial project setup  
 
 ### What I will do next:
