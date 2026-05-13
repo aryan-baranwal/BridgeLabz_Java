@@ -1300,3 +1300,252 @@ In this README documentation, I will keep updating my learnings gained while att
 - None  
 
 ---
+
+## 20th April, 2026
+
+### What I’ve done:
+- Completed infrastructure services for the Bookstore E-Commerce project  
+- Started working on Admin Service  
+
+### What I will do next:
+- Complete Admin Service and start Common Library  
+
+### Issues:
+- Understanding communication flow between services  
+
+---
+
+## 21st April, 2026
+
+### What I’ve done:
+- Completed Admin Service  
+- Started working on Common Library and User Service  
+
+### What I will do next:
+- Complete User Service and start Cart Service  
+
+### Issues:
+- Managing dependencies across services  
+
+---
+
+## 22nd April, 2026
+
+### What I’ve done:
+- Completed Common Library and User Service  
+- Started working on Cart Service and Customer Service  
+
+### What I will do next:
+- Complete Cart Service and Customer Service  
+
+### Issues:
+- Handling API integration between services  
+
+---
+
+## 24th April, 2026
+
+### What I’ve done:
+- Completed Cart Service, Customer Service, Order Service, and Product Service  
+- Started working on Notification Service  
+
+### What I will do next:
+- Complete Notification Service  
+
+### Issues:
+- Managing multiple microservices together  
+
+---
+
+## 25th April, 2026
+
+### What I’ve done:
+- Attended Power Skills Session  
+
+### What I will do next:
+- Continue working on Notification Service  
+
+### Issues:
+- None  
+
+---
+
+## 27th April, 2026
+
+### What I’ve done:
+- Completed Notification Service  
+- Started working on Wishlist Service and Feedback Service  
+
+### What I will do next:
+- Complete remaining services and testing  
+
+### Issues:
+- Understanding asynchronous communication flow  
+
+---
+
+## 28th April, 2026
+
+### What I’ve done:
+- Completed working on infrastructure services  
+- Checked all API endpoints to ensure proper functionality  
+
+### What I will do next:
+- Push the complete project to GitHub  
+
+### Issues:
+- Debugging API endpoint issues  
+
+---
+
+## 29th April, 2026
+
+### What I’ve done:
+- Checked all API endpoints and verified project functionality  
+- Pushed the Bookstore E-Commerce Microservice project to GitHub  
+
+### What I will do next:
+- Start learning Cloud and AWS concepts  
+
+### Issues:
+- Managing configuration across services  
+
+---
+
+## 30th April, 2026
+
+### What I’ve done:
+- Started learning Cloud and AWS concepts  
+- Understood basics of cloud infrastructure and deployment  
+
+### What I will do next:
+- Continue learning AWS services  
+
+### Issues:
+- Understanding cloud architecture concepts  
+
+---
+
+## 2nd May, 2026
+
+### What I’ve done:
+- Attended Power Skills Session  
+
+### What I will do next:
+- Start working on Crypto-Portfolio-App group project  
+
+### Issues:
+- None  
+
+---
+
+## 4th May, 2026
+
+### What I’ve done:
+- Started working on the Crypto-Portfolio-App group project  
+- Completed the initial project setup  
+
+### What I will do next:
+- Work on Infrastructure Service implementation  
+
+### Issues:
+- Managing project setup and dependencies  
+
+---
+
+## 5th May, 2026
+
+### What I’ve done:
+- Completed Infrastructure Service  
+- Started working on Auth Service  
+
+### What I will do next:
+- Implement login and register functionality  
+
+### Issues:
+- Understanding authentication flow  
+
+---
+
+## 6th May, 2026
+
+### What I’ve done:
+- Implemented and tested login and register features  
+- Verified API functionality using Postman  
+
+### What I will do next:
+- Continue working on Auth Service and validations  
+
+### Issues:
+- Managing JWT authentication properly  
+
+---
+
+## 8th May, 2026
+
+### What I’ve done:
+- Started Notification Service  
+- Checked the working of all API endpoints for the service  
+
+### What I will do next:
+- Continue integrating notification features  
+
+### Issues:
+- Handling event-driven communication  
+
+---
+
+## 9th May, 2026
+
+### What I’ve done:
+- Attended recap Power Skills Session  
+
+### What I will do next:
+- Continue implementation of remaining project features  
+
+### Issues:
+- None  
+
+---
+
+## 11th May, 2026
+
+### What I’ve done:
+- Resolved GitHub SSH key issues  
+- Resolved merge conflict issues in the project  
+
+### What I will do next:
+- Continue Auth Service implementation  
+
+### Issues:
+- Managing Git conflicts across branches  
+
+---
+
+## 12th May, 2026
+
+### What I’ve done:
+- Worked on Auth Service logout implementation using Redis token blacklist  
+- Implemented admin features  
+
+### What I will do next:
+- Complete remaining use cases and testing  
+
+### Issues:
+- Understanding Redis token management  
+
+---
+
+## 13th May, 2026
+
+### What I’ve done:
+- Completed UC18 and UC19 of QuantityMeasurementApp  
+- Revised previous application concepts  
+
+### What I will do next:
+- Continue improving project implementations  
+
+### Issues:
+- Managing advanced use case logic  
+
+---
